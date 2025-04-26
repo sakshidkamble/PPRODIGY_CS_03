@@ -46,6 +46,7 @@ python password_analyzer.py
 
 ==================================================================================================
 Usage
+
 Launch the app using python password_analyzer.py.
 Enter a password in the input field or click "Generate Password" for a secure random password.
 Click "Analyze" to view entropy, crack time, patterns, and breach status.
@@ -55,6 +56,7 @@ Toggle between dark and light themes with the "Toggle Theme" button.
 
 
 Dependencies
+
 tkinter: For the GUI (usually included with Python).
 requests: For querying the Have I Been Pwned API.
 reportlab: For generating PDF reports.
@@ -64,7 +66,6 @@ hashlib, secrets, math, string, datetime: Standard Python libraries.
 
 Contributing
 Contributions are welcome! To contribute:
-
 Fork the repository.
 Create a new branch (git checkout -b feature-name).
 Make your changes and commit (git commit -m "Add feature").
