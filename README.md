@@ -1,3 +1,9 @@
+
+# PPRODIGY_CS_03
+Task 3- Password complexity checker ( Submission of Prodigy InfoTech Internship[CyberSecurity Track])
+
+FULLY python GUI based code for password complexity checker project.
+
 ![cs03](https://github.com/user-attachments/assets/efd0bf8f-1213-4a1b-9f0e-1c059f8c3e68)
 ![cso3 1](https://github.com/user-attachments/assets/4985aad4-9252-4a48-b6d9-9cbd75aa24f2)
 ![cso3 2](https://github.com/user-attachments/assets/fbead1cd-d118-4fd0-ada2-8db20e454d12)
@@ -8,7 +14,14 @@
 ![cso3 7](https://github.com/user-attachments/assets/a3e7d382-0786-407e-bd3f-523acd082242)
 ![cso3 8](https://github.com/user-attachments/assets/25412e75-e66a-402c-b371-f2da5150adca)
 ![cso3 9](https://github.com/user-attachments/assets/2e937990-66af-49e5-8933-1f614a1904fa)
-# PPRODIGY_CS_03
-Task 3- Password complexity checker ( Submission of Prodigy InfoTech Internship[CyberSecurity Track])
 
-FULLY python GUI based code for password complexity checker project.
+
+---
+
+If you have any suggestions or feedback, feel free to reach out!  
+
+---
+
+http://www.linkedin.com/in/sakshi-dhananjay-kamble-4444ba219
+
+---
